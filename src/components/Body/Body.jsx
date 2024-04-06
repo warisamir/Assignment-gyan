@@ -1,5 +1,5 @@
 import React from 'react'
-import bannerSvg from '../../assets/banner.svg'
+import bannerSvg from './../../assets/banner.svg'
 import './body.css'
 
 function Body() {
