@@ -1,0 +1,17 @@
+.body-card {
+    min-width: 350px;
+    max-width: 350px;
+    height: 320px;
+   border-radius: 6px;
+   border: 1px solid  #B0BABF;
+   overflow: hidden;
+   margin-bottom: 25px;
+}
+
+.body-img{
+    position: relative;
+}
+
+.img-card{
+    min-width: 100%;
+}

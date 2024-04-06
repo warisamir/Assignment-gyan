@@ -1,0 +1,23 @@
+.card-body {
+    min-width: 240px;
+    height: 350px;
+    position: relative;
+    
+}
+
+.img-body {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+
+.card-img {
+    height: 100%;
+    width: 100%;
+    transform: scale(1.2, 1.1);
+}
+
+

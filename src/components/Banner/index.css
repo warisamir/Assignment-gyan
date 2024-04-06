@@ -1,0 +1,51 @@
+.banner {
+    height: 100dvh;
+}
+
+.banner-text {
+    color: white;
+    padding: 150px;
+
+}
+
+.banner-text h1 {
+    text-align: center;
+    font-size: 4dvw;
+    padding: 20px;
+}
+
+.banner-text p {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    color: #989090;
+
+}
+
+@media only screen and (max-width:700px) {
+    .banner-text {
+        color: white;
+        padding-top: 70px;
+
+    }
+
+    .banner-text h1 {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        line-height: 45px;
+        font-size: 25px;
+        padding: 5px;
+    }
+
+    .banner-text p {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        font-size: 14px;
+        line-height: 35px;
+        padding: 5px;
+        color: #989090;
+    }
+}
