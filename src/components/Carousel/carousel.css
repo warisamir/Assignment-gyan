@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px) {
+    .header {
+        margin-top: -3rem !important;
+        margin-left: 4rem !important; 
+    }
+
+    .image {
+        margin-top: 0 !important;
+        z-index: 12 !important;
+        width: 13rem !important; 
+    }
+
+    .img {
+        margin-top: -4.3rem !important;
+    }
+    .event-name {
+        font-size: small !important;
+        margin-top: -2rem !important;
+    }
+    .event-date {
+        padding-left: 1rem !important;
+        margin-top: -1rem !important;
+    }
+    .weather {
+        margin-left: 5.5rem !important;
+    }
+
+    
+}

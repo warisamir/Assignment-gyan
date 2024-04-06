@@ -1,17 +1,20 @@
-import './App.css'
-import Banner from './components/Banner';
-import Navbar from "./components/Navbar";
-import REvents from "./components/EventPannel/Recommended";
-import UEvents from "./components/EventPannel/Upcomming";
+import Header from "./components/Header/Header"
+import Catalog from "./components/Catalog/Catalog"
+import Body from "./components/Body/Body"
+import Events from "./components/Events/Events"
+import Shows from "./components/Shows/Shows"
+import Carousel from "./components/Carousel/Carousel"
 
 function App() {
-  
+
   return (
     <>
-    <Navbar/>
-    <Banner/>
-    <REvents/>
-    <UEvents/>
+      <Header />
+      <Catalog />
+      <Body />
+      <Carousel />
+      {/* <Shows /> */}
+      <Events />
     </>
   )
 }

@@ -1,0 +1,112 @@
+@media only screen and (max-width: 768px) {
+    .flex {
+        display: flex;
+    }
+
+    .space-x-2>*+* {
+        margin-left: 0 !important;
+    }
+
+    .absolute {
+        position: absolute;
+    }
+
+    .-mt-52 {
+        margin-top: -13rem !important;
+        margin-left: -4rem !important;
+        /* Adjust according to your design */
+    }
+
+    .ml-24 {
+        margin-top: 6rem !important;
+        margin-left: -14px !important;
+        /* Adjust according to your design */
+    }
+
+    .font-semibold {
+        font-weight: 600;
+    }
+
+    .text-lg {
+        font-size: 1.125rem;
+        /* Adjust according to your design */
+    }
+
+    .text-white {
+        color: #fff;
+    }
+
+    .w-5 {
+        width: 1.25rem;
+        /* Adjust according to your design */
+    }
+
+    .max-w-sm {
+        max-width: 20rem;
+        /* Adjust according to your design */
+    }
+
+    .w-60 {
+        width: 15rem;
+        /* Adjust according to your design */
+    }
+
+    .ml-20 {
+        margin-left: 5rem;
+        /* Adjust according to your design */
+    }
+
+    .object-cover {
+        object-fit: cover;
+    }
+
+    .rounded-lg {
+        border-radius: 0.5rem;
+        /* Adjust according to your design */
+    }
+
+    .px-3 {
+        padding-left: 0.75rem;
+        /* Adjust according to your design */
+        padding-right: 0.75rem;
+        /* Adjust according to your design */
+    }
+
+    .items-center {
+        align-items: center;
+    }
+
+    .justify-between {
+        justify-content: space-between;
+    }
+
+    .ml-16 {
+        margin-left: 1rem;
+        /* Adjust according to your design */
+    }
+
+    .mt-1 {
+        margin-top: 0.25rem;
+        /* Adjust according to your design */
+    }
+
+    .px-6 {
+        padding-left: 1.5rem;
+        /* Adjust according to your design */
+        padding-right: 1.5rem;
+        /* Adjust according to your design */
+    }
+
+    .ml-14 {
+        margin-left: 0.875rem;
+        /* Adjust according to your design */
+    }
+
+    .mt-2 {
+        margin-top: 0.5rem;
+        /* Adjust according to your design */
+    }
+
+
+
+}
